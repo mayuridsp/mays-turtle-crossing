@@ -2,9 +2,9 @@
 
 Game: Turtle crossing a road with moving cars
 
-# Behind the scenes
+## Behind the scenes
 
-Using Object Oriented Programming (OOP) for the different parts of the project:
+Object Oriented Programming (OOP) used for the different parts of the project:
 - Cars moving
 - Player moving
 - Scoreboard
