@@ -10,3 +10,5 @@ Game for turtle crossing a road with moving cars
 - Make the turtle cross the road by hitting the Up arrow on your keyboard
   - When it hits the upper side of the road, the level will increase by one and the position with be reset 
   - If the turtle hits a car, the game will be over
+
+![img_1.png](img_1.png)
