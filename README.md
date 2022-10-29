@@ -1,6 +1,10 @@
 # Turtle Crossing Game
 
-Game for turtle crossing a road with moving cars
+Game: Turtle crossing a road with moving cars
+Behind the scenes: using Object Oriented Programming (OOP) for the different parts of the project:
+- Cars moving
+- Player moving
+- Scoreboard
 
 ## How to play
 
